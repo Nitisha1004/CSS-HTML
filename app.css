@@ -1,0 +1,79 @@
+h2 {
+    color: #5FCFFC;
+    background-color: rgb(89, 151, 0);
+    
+}
+
+button {
+   color: magenta;
+   background-color: cyan;
+}
+
+p {
+    color: olive;
+   
+}
+
+body{
+    color: #CC55EE;
+}
+/*id selector*/
+#signup{
+    background-color: #CC55EE;
+    color: violet;
+}
+/*span*/
+span{
+     color: #457b9d;
+}
+/*class selector*/
+.tag{
+    background-color: #e63946;
+    color: #f1faee;
+    font-size: 16px;
+
+}
+
+h2 + button{
+    font-size: 20px;
+    background-color: black;
+
+}
+
+footer a{
+    color:#e63946;
+
+}
+
+footer > a{
+    color: green;
+}
+
+input [type = "password"]{
+    color: palegreen;
+}
+
+section[class="post"]{
+    background-color: black;
+}
+
+a[href*="about"]
+{
+    font-style: italic;
+}
+
+button:hover{
+    color: black; 
+}
+
+a:hover{
+    text-decoration: underline;
+}
+
+h2::first-letter{
+    font-size:50px;
+}
+
+p::first-line{
+   color: red;
+}

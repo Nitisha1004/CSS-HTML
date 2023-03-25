@@ -1,0 +1,48 @@
+div{
+    width: 300px;
+    height: 300px;
+}
+
+h1{
+    background-color: palevioletred;
+    padding-left: 100px;
+    padding-top: 150px;
+    margin-bottom: 0;
+}
+
+#one{
+    background-color: antiquewhite;
+    border-width: 5px;
+    border-color: black;
+    border-style: solid;
+    box-sizing: 200px;
+
+}
+#two{
+    background-color: aqua;
+    border-width: 5px;
+    border-color: black;
+    border-style: dashed solid;
+    box-sizing: 200px;
+    border-left-width: 8px;
+
+}
+#three{
+    background-color: aquamarine;
+    border:4px solid black;
+    border-radius: 4px;
+}
+
+button
+{
+    PADDING : 10PX 20PX 30PX 40PX;
+
+}
+
+span{
+    background-color: paleturquoise;
+    border: 1px solid black;
+    width:500px;
+    padding: 100px;
+}
+

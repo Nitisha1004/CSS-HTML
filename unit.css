@@ -1,0 +1,38 @@
+section {
+    background-color: magenta;
+    width: 500px;
+    height: 500px;
+}
+
+#div{
+    background-color: rgba(255, 255, 255, 0.7);
+    width: 50%;
+    height: 50%;
+
+}
+
+#opacity{
+    background-color: yellow;
+    width: 50%;
+    height: 50%;
+    opacity: 0.5;
+
+}
+
+h1{
+    font-size: 40px;
+    border: solid black;
+    line-height: 200%;
+
+}
+P{
+    font-size: 1em;
+}
+
+h2{
+    font-size: 2em;
+}
+
+article{
+    font-size: 30px;
+}
